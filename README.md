@@ -25,7 +25,7 @@ Built by React Typescript
     <img src="/screenshots/screenshot3.png" width="35%" />
     <img src="/screenshots/screenshot4.png" width="35%" /> 
   </p>
-<br/>  
+  
 ## Installation & Setup Instruction
 Clone down this repository. You will need `node` and `npm` installed globally on your machine. 
 ### a. Installation 
