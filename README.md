@@ -1,10 +1,12 @@
 # Women's Tops Shopping List
 
+<br/>
 ## Project Description
 A HTML page display all women's clothes. <br/>
 Cusomter can filter products by clothes sizes.<br/>
 Built by React Typescript
 
+<br/>
 ## Project Screen Shots
 ###  a. Page Overview
   <div align=left>
@@ -23,7 +25,7 @@ Built by React Typescript
     <img src="/screenshots/screenshot3.png" width="35%" />
     <img src="/screenshots/screenshot4.png" width="35%" /> 
   </p>
-  
+<br/>  
 ## Installation & Setup Instruction
 Clone down this repository. You will need `node` and `npm` installed globally on your machine. 
 ### a. Installation 
