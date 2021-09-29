@@ -8,20 +8,20 @@ Built by React Typescript
 ## Project Screen Shots
 ###  a. Page Overview
   <div align=left>
-    <img src="screenshot1.png" width="40%" />
+    <img src="/screenshots/screenshot1.png" width="40%" />
   </div>
 
 ### b. Filter by Size
   <div align=left>
-    <img src="screenshot2.gif" width="40%" />
+    <img src="/screenshots/screenshot2.gif" width="40%" />
   </div>
   
 ### c. Responsive Page<br/>
   Use Google chrome to simulate page layout in differnt devices
   (left: Ipad Pro, right: Iphone X)
   <p float="left">
-    <img src="screenshot3.png" width="35%" />
-    <img src="screenshot4.png" width="35%" /> 
+    <img src="/screenshots/screenshot3.png" width="35%" />
+    <img src="/screenshots/screenshot4.png" width="35%" /> 
   </p>
   
 ## Installation & Setup Instruction
