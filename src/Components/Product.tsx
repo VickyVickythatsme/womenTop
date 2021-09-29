@@ -1,13 +1,11 @@
 import classes  from "../CSS/styles.module.css";
 
 export interface ProductProp {
-  index?: number;
   isSale: boolean;
   isExclusive: boolean;
   price: string;
   productImage: string;
   productName: string;
-  size?: string;
 }
 
 const Product = (prop: ProductProp) => {
